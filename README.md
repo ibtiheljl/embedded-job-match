@@ -72,7 +72,6 @@ embedded-job-match/
 ├── migrations/
 │   └── 0001_jobs_and_search_runs.sql
 ├── hatchable.toml
-├── .gitignore
 └── README.md
 ```
 
