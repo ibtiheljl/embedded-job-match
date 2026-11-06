@@ -1,0 +1,7 @@
+[[secret]]
+name = "JOBS_INGEST_API_KEY"
+required = false
+description = "Secret bearer token used by trusted external job-search agents."
+
+[mcp]
+enabled = true
